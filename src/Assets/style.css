@@ -1,0 +1,17 @@
+.background{
+    background-color: rgb(148, 31, 232) !important;
+}
+.text-he{
+    color: rgb(148, 31, 232) !important;
+}
+.btn-h:hover{
+color: black !important;
+}
+.small-text{
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(239, 239, 239);
+}
+.btn-more:hover{
+    background-color:rgb(79, 23, 119) !important ;
+}
