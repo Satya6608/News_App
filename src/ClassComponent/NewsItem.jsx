@@ -4,7 +4,7 @@ export default class NewsItem extends Component {
   render() {
     return (
       <>
-        <div className="card">
+        <div className="card my-3">
           <img src={this.props.pic} height="230px" className="card-img-top" alt="..."/>
             <div className="card-body">
               <h5 className="card-title" style={{height:"120px"}}>{this.props.title.slice(0,55)+"..."}</h5>
